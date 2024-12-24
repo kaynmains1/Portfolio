@@ -11,7 +11,7 @@ with col1:
 with col2:
     st.title("Oleksii Timonov")
     content = """
-    Hi, My name is Oleksii Timonov and I am just start teaching python and I will add some more 
+    Hi, My name is Oleksii Timonov and I am just start studying python and I will add some more 
 information later on
 """
     st.info(content)
